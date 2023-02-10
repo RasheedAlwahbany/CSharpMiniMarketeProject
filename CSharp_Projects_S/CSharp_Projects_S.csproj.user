@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>G:\ProgramFiles\</ReferencePath>
+    <PublishUrlHistory>D:\|G:\ProgramFiles86\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory>https://wwwgolden66%40gmail.com</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>https://wwwgolden66%40gmail.com</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\RAGT\Documents\Visual Studio 2015\Projects\CSharp_Projects_S_finally\CSharp_Projects_S\bin\Debug\</StartWorkingDirectory>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
